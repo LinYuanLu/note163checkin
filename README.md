@@ -1,6 +1,6 @@
 # note163checkin
 代码复制的别人的，我只是稍作修改，不能用了我也不会修
-## 目前暂时能
+## 目前暂时
 python源码copy于(https://github.com/lepecoder/checkin)
 
 ##下面的说明也是复制的别人项目的
